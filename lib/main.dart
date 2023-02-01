@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:percobaan_lintang_002/components/detail.dart';
 import 'package:percobaan_lintang_002/components/travelcard.dart';
-import 'package:percobaan_lintang_002/screens/login_screen.dart';
+import 'package:percobaan_lintang_002/screen/login_screen.dart';
 
 void main() {
   runApp(MaterialApp(
